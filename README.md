@@ -13,5 +13,9 @@ best practice way of working through each task.
 Projects : Tie together all of the knowledge from the lessons by working through case study
 predictive modeling problems.
 
+From this book we will know how to work on small to medium size dataset, 
+how to build a modle that can make accurate predictions on new data, 
+we wil learn new and different techniques in python and scipy.
+
 ![cover](https://github.com/Bluelord/ML_Mastery_Python/blob/bfe671661ac544fa963948408374f4b011022782/Images/ML_Mastery_python.JPG)
 
