@@ -30,10 +30,6 @@
   - **Present Result:** Finalize the model, make prediction & present results.
   15. Model Finalization. (Present Results)
 
-From this book we will know how to work on small to medium size dataset, 
-how to build a modle that can make accurate predictions on new data, 
-we wil learn new and different techniques in python and scipy.
-
 ### Python Ecosystem for ML
 
 Python is a general purpose interpreted programming language. It is easy to learn and use
